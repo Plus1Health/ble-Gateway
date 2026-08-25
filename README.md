@@ -534,4 +534,4 @@ seenFrames.add(dedupKey);
 
 ---
 
-WIFI4GGateWayBLE Cloud Protocol Documentation - v1.0
+Copyright © Plus1Health   WIFI/4G GateWay BLE Cloud Protocol Documentation - v1.0  
