@@ -1,4 +1,4 @@
-# WIFI/4G GateWayBLE Cloud Protocol Documentation
+# WIFI/4G BLE HUB GateWay Cloud Protocol Documentation
 
 Version 2.0
 
