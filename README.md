@@ -57,6 +57,8 @@ Core capabilities:
 | Heartbeat | Gateway -> UDP/TCP -> Cloud | UDP / TCP |
 
 ---
+![page1](./page1.jpg)
+![page2](./page2.jpg)
 
 ## 3. Cloud Uplink Data Protocol
 
